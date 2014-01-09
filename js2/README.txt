@@ -1,0 +1,1 @@
+This project is from http://www.codecademy.com/courses/javascript-beginner-en-x9DnD/0/1
